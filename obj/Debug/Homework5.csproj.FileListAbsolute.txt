@@ -1,0 +1,14 @@
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\bin\Debug\Homework5.exe.config
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\bin\Debug\Homework5.exe
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\bin\Debug\Homework5.pdb
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5.csprojResolveAssemblyReference.cache
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\MainWindow.g.cs
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\App.g.cs
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5_MarkupCompile.cache
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5_MarkupCompile.lref
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\MainWindow.baml
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5.g.resources
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5.Properties.Resources.resources
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5.csproj.GenerateResource.Cache
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5.exe
+c:\users\ejiroghene\documents\visual studio 2015\Projects\Homework5\Homework5\obj\Debug\Homework5.pdb
